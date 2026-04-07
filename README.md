@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Прогноз концентрации продукта печи
 
 ## Описание задачи
@@ -41,3 +42,6 @@
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+=======
+# Analitika
+>>>>>>> 8a82ce4e206bb712936f13e156a1d9623b11e6e5
