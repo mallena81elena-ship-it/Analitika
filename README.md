@@ -18,11 +18,11 @@
 ---
 
 ## Данные
-### https://docs.google.com/document/d/1pJ3zKBbzAk9QdpfOUSCiSfcr7EFF3SmxhoaAnFEfgMs/edit?tab=t.0#heading=h.1hxlnz23rczy
-- data_train.csv — телеметрия (минутная)
-- target_train.csv — лабораторные замеры
-- data_test_small.csv — тестовая телеметрия
-- target_test_small.csv — тестовые замеры
+### Взяты из ЛР2 https://docs.google.com/document/d/1pJ3zKBbzAk9QdpfOUSCiSfcr7EFF3SmxhoaAnFEfgMs/edit?tab=t.0#heading=h.1hxlnz23rczy
+- data_train.csv — телеметрия (минутная) https://drive.google.com/file/d/1BJ7eIQVOrnEP-v6JctC54TI_c2VlKtDf/view?usp=sharing
+- target_train.csv — лабораторные замеры https://drive.google.com/file/d/1FpUfMWi0LcR0SxCQg9cdcWjcuezKafuL/view?usp=sharing 
+- data_test_small.csv — тестовая телеметрия https://drive.google.com/file/d/1POwZC9gGuVGuMl4XRqw7xBND6mXCbrGs/view?usp=sharing
+- target_test_small.csv — тестовые замеры https://drive.google.com/file/d/1pcpkAP6kAhtEeGTb13nOWfKVzzUX2frm/view?usp=sharing
 
 ---
 
